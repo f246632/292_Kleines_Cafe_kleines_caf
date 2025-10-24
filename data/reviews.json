@@ -1,0 +1,35 @@
+{
+  "cafe_name": "Kleines Café",
+  "google_rating": "3.0/5",
+  "total_reviews": "43",
+  "reviews": [
+    {
+      "author": "Google User",
+      "rating": 5,
+      "text": "Guter Kaffee - Geeignet zum Arbeiten am Laptop",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Local Visitor",
+      "rating": 5,
+      "text": "Die Gastgeber sind mega nett! Das Essen schmeckt hervorragend.",
+      "date": "2024",
+      "language": "de"
+    },
+    {
+      "author": "Berlin Resident",
+      "rating": 4,
+      "text": "DAS kleine familiäre Café in Berlin Spandau. Kinderfreundlich und barrierefrei mit ebenem Eingang.",
+      "date": "2024",
+      "language": "de"
+    }
+  ],
+  "features": [
+    "Guter Kaffee",
+    "Geeignet zum Arbeiten am Laptop",
+    "Kinderfreundlich",
+    "Barrierefrei",
+    "Familiäres Ambiente"
+  ]
+}
